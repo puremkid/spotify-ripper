@@ -1,3 +1,8 @@
+**NOTE: This fork is no longer actively maintained and by default empties the spotify playlist it rips irrelevant of the status of the remove from playlist flag as that is my use case.**
+
+**If you are looking for a fork that has the webapi modifications from this repo, plus DOESN't wipe the playlist after ripping check out: https://github.com/wolfmanx/spotify-ripper/tree/pr-collect**
+
+
 spotify-ripper |Version|
 ========================
 A fork of
